@@ -30,10 +30,9 @@ const int buzzer = 4;
 
 String tags[] = {"036d7994", "4375d194", "437abe94", "", "3172ce2d"};
 
-const char* ssid = "Einigkeit und Recht und Wifi";
-const char* password = "Dilssw09dnjh##**++";
-// const char* ssid = "BotNet4.0";
-// const char* password = "ZXLZfq+n$xQvru!@?#xB";
+const char* ssid = "";
+const char* password = "";
+
 char customKey;
 int numbers = 0;
 int user;
